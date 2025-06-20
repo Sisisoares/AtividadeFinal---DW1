@@ -1,17 +1,17 @@
 [
     {
-        "nome": "Café Gourmet",
-        "descricao": "Excelente opção para quem aprecisa os grãos moídos na hora.",
+        "nome": "Café",
+        "descricao": "Breve descrição sobre o café.",
         "imagem": "cafe.jpg"
     },
     {
-        "nome": "Torta de Morango Gourmet",
-        "descricao": "Nada melhor que acompanhar um delicioso café com essa torta.",
+        "nome": "Torta de Morango",
+        "descricao": "Breve descrição sobre a torta.",
         "imagem": "torta.jpg"
     },
     {
-        "nome": "Pão de Queijo Gourmet",
-        "descricao": "Um delicioso pão de queijo acompanhado com recheio de catupiry.",
+        "nome": "Pão de Queijo",
+        "descricao": "Breve descrição sobre o pão de queijo.",
         "imagem": "pao.jpg"
     }
 ]
